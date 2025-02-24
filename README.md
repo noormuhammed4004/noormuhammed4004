@@ -7,7 +7,7 @@
 - **Open-Source Contributions**: If you have any open-source projects related to data science, AI, or web development, I’d be happy to contribute.
 - **Web Development**: I’m working on some web-based applications and would love to collaborate on building more dynamic web projects.
 - 🤝 How to reach me:
-Feel free to open an issue or create a pull request on any of my projects, or reach out to me directly at [noormuhammed6483@gmail.com](mailto:noormuhammed6483@gmail.com) or via [https://www.linkedin.com/in/noor-muhemad-anwer-m-3b4440214/](#).
+Feel free to open an issue or create a pull request on any of my projects, or reach out to me directly at [noormuhammed6483@gmail.com](mailto:noormuhammed6483@gmail.com) or via [Linkedin](https://www.linkedin.com/in/noor-muhemad-anwer-m-3b4440214/).
 
 - 🔗 My Projects:
   +[COVID Lifestyle Prediction](#)
