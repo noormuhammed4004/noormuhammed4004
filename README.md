@@ -16,7 +16,7 @@ Feel free to open an issue or create a pull request on any of my projects, or re
 
 - ## 📫 How to reach me:
 - 💬 You can reach me via email at [noormuhammed6483@gmail.com](mailto:noormuhammed6483@gmail.com)
-- 🔗 Find me on [https://www.linkedin.com/in/noor-muhemad-anwer-m-3b4440214/](#)
+- 🔗 Find me on [Linkedin](https://www.linkedin.com/in/noor-muhemad-anwer-m-3b4440214/)
 - 🐦 Follow me on Twitter: 
 
 - 😄 Pronouns:
